@@ -1,6 +1,3 @@
-Ben Ryan - C15507277
-IP:Port: 35.187.173.16:5000
-Github: https://github.com/benr96/CloudComputingAssignment2
 Video: https://youtu.be/byXBfS57IKk
 
 Part 1:
@@ -16,6 +13,4 @@ Part 2:
 	2. The bash file for testing the CMS is in the github. The command runs in order of the index page.
 	   It will ask for input of IDs or states to change, the ids can be taken from the previous commands output.
 	   test.Dockerfile can be used to upload and use for creating the image.
-	   
-I have not completed the extra question, part 3.
 	   
