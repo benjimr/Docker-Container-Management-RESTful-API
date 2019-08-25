@@ -1,4 +1,4 @@
-The goal of this project was to create a Python server running Flask to act as an RESTful API for controlling a swarm of docker containers, allowing the users to carry out the following commands through the API
+The goal of this project was to create a Python server running Flask to act as an RESTful API for controlling a swarm of docker containers, allowing the users to carry out the following commands through the API.
 
 1. GET /containers - List all containers
 
